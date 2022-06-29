@@ -4,7 +4,7 @@
 // -3
 // 7
 
-int A = -3;
+int A = 4;
 if (A % 2 == 0)
 {
     Console.WriteLine("четное: " + A);
